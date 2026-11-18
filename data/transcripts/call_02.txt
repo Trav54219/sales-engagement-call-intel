@@ -1,0 +1,9 @@
+# rep: Rep B
+# note: synthetic transcript, fictional companies and people
+[00:00-01:30] REP: Hi, this is Rep B from the platform team. We help revenue teams with forecasting and I wanted to walk you through everything we do, starting with the dashboard, the integrations with every CRM, our security certifications, the onboarding program, and our pricing tiers.
+[01:30-01:45] PROSPECT: Okay.
+[01:45-03:15] REP: Great. On top of that we have a reporting suite, an API, SSO, and a customer success group that handles training for your whole rollout, and we can discount if you sign this quarter.
+[03:15-03:30] PROSPECT: We already use another vendor for this and it works fine.
+[03:30-04:30] REP: Our product is better in every category and we win most comparisons, so I would switch.
+[04:30-04:45] PROSPECT: Not the right time. Maybe later.
+[04:45-05:00] REP: Okay, I will check back.

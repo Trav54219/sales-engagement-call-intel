@@ -1,0 +1,12 @@
+# rep: Rep A
+# note: synthetic transcript, fictional companies and people
+[00:00-00:20] REP: Thanks for jumping on. What prompted you to look at forecasting tools this quarter?
+[00:20-01:10] PROSPECT: Our pipeline reports are all spreadsheets right now. The sales leaders can't trust the forecast and we miss the number every quarter.
+[01:10-01:25] REP: How are the spreadsheets fed today? Does anyone pull from the CRM by hand?
+[01:25-02:10] PROSPECT: Yes, ops exports from Salesforce every Friday and we merge it. It takes two people most of a day.
+[02:10-02:40] REP: That sync is the part we automate. Would a live dashboard in place of that Friday export be useful?
+[02:40-03:10] PROSPECT: It would, but the price matters. Our budget is already tight this year.
+[03:10-03:30] REP: Fair. What would you need to see to justify the spend?
+[03:30-04:00] PROSPECT: Hours saved, mostly, and a clean report for the CFO.
+[04:00-04:30] REP: I can send over a short ROI sheet. Can we book a 30 minute demo next Tuesday at 2pm?
+[04:30-04:45] PROSPECT: Tuesday at 2pm works. Send the invite.

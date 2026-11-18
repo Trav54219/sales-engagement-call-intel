@@ -1,0 +1,15 @@
+[project]
+name = "salesintel"
+version = "0.1.0"
+description = "Sequence engine and call-transcript analyzer (modeled after sales-engagement and conversation-intelligence tools)"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[tool.setuptools]
+packages = ["salesintel"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

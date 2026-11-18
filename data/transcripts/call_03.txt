@@ -1,0 +1,10 @@
+# rep: Rep A
+# note: synthetic transcript, fictional companies and people
+[00:00-00:15] REP: Appreciate the time. What does onboarding look like for new reps on your side today?
+[00:15-01:00] PROSPECT: Mostly shadowing. Ramp is about five months and the training material is out of date.
+[01:00-01:20] REP: What does that cost you per rep, roughly? Have you measured it?
+[01:20-02:00] PROSPECT: Not precisely. I would need to run it by my VP before we look at anything new.
+[02:00-02:25] REP: Understood. Who else would sign off, and what would they want to see?
+[02:25-03:00] PROSPECT: Our VP and procurement. They want security documentation and a SOC 2 report.
+[03:00-03:20] REP: I can send over the security pack. Could we follow up Thursday after you talk to your VP?
+[03:20-03:30] PROSPECT: Thursday works.
